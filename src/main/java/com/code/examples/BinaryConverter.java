@@ -1,4 +1,4 @@
-package com.hackerrank.codility.HackerRankCodility;
+package com.code.examples;
 
 
 public class BinaryConverter {

@@ -1,8 +1,10 @@
-package com.hackerrank.codility.HackerRankCodility;
+package com.code.examples;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
+
+import com.code.examples.BinaryConverter;
 
 public class BinaryConverterTest {
 	
