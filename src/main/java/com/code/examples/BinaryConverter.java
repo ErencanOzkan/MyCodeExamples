@@ -15,5 +15,4 @@ public class BinaryConverter {
         binary.append(N);
          return binary.reverse();
     }
-
 }
